@@ -5,7 +5,7 @@ Generates a small executable.
 
 To start the generation, run 
 
-	./build
+	./build.sh
 then run
 	
 	./hello
